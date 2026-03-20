@@ -43,7 +43,8 @@ Anyone can interact with the protocol freely, making it aligned with **DeFi prin
 ---
 
 ## ui preview
-<img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/28bb63df-cbeb-4439-a9bf-4487b9d6043c" />
+<img width="1913" height="1078" alt="image" src="https://github.com/user-attachments/assets/bbc118e7-3f04-441a-a530-65e25b16ae4f" />
+
 
 ## contract screenshot
 <img width="1913" height="877" alt="image" src="https://github.com/user-attachments/assets/61c32837-ff1a-4d13-b84c-991f7406c98f" />
