@@ -28,7 +28,7 @@ Anyone can interact with the protocol freely, making it aligned with **DeFi prin
 * 🧾 **Permissionless Invoice Creation**
 * 💰 **Open Funding (Factoring)**
 * 🔄 **Decentralized Settlement**
-* 🔍 **Transparent On-chain Data**
+* 🔍 **Transparent On-chain Data**uo
 * ⚡ **No Central Authority**
 
 ---
@@ -42,4 +42,12 @@ Anyone can interact with the protocol freely, making it aligned with **DeFi prin
 
 ---
 
-##
+## ui preview
+<img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/28bb63df-cbeb-4439-a9bf-4487b9d6043c" />
+
+## contract screenshot
+<img width="1913" height="877" alt="image" src="https://github.com/user-attachments/assets/61c32837-ff1a-4d13-b84c-991f7406c98f" />
+## contract address
+CB76PDYETQI6EV4XCPMIHQHGBJXXXNBHM4OEKAWXQAOGOCNTH2QZOUQV
+
+
